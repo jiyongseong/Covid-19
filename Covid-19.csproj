@@ -5,6 +5,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Covid_19</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>resources\covid-19.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
