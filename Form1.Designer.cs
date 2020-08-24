@@ -108,6 +108,7 @@
             this.Font = new System.Drawing.Font("Cascadia Code", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "Form1";
             this.Text = "Covid-19 Status by Country";
+            this.Icon = new System.Drawing.Icon("resources/covid-19.ico");
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.chart_Covid19)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_Covid19)).EndInit();
