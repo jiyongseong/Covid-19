@@ -9,4 +9,5 @@
     cd Covid-19
     dotnet restore
     dotnet run
+    dotnet build --configuration Release
     ```
